@@ -1,6 +1,6 @@
 'use strict'
 
-const letters1 = ['', 'bl', 'cl', 'fl', 'gl', 'pl', 'br', 'cr', 'dr', 'fr', 'pr', 'tr', 'sl', 'sm', 'sn', 'st', 'th', 'sh'];
+const letters1 = ['', 'bl', 'cl', 'fl', 'gl', 'pl', 'br', 'cr', 'dr', 'fr', 'pr', 'tr', 'sl', 'sm', 'sn', 'st', 'th', 'sh', 'ch'];
 const letters2 = ['', 'a', 'e', 'i', 'o', 'u'];
 const letters3 = ['', 'b', 'd', 'g', 'k', 'm', 'n', 'p', 's', 't', 'x', 'p', 'ck', 'nk', 'ng', 'mp', 'sh'];
 
