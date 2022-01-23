@@ -2,7 +2,7 @@
 
 const letters1 = ['', 'bl', 'cl', 'fl', 'gl', 'pl', 'br', 'cr', 'dr', 'fr', 'pr', 'tr', 'sl', 'sm', 'sn', 'st', 'th', 'sh', 'ch'];
 const letters2 = ['', 'a', 'e', 'i', 'o', 'u'];
-const letters3 = ['', 'b', 'd', 'g', 'k', 'm', 'n', 'p', 's', 't', 'x', 'p', 'ck', 'nk', 'ng', 'mp', 'sh'];
+const letters3 = ['', 'b', 'd', 'g', 'k', 'm', 'n', 'p', 's', 't', 'x', 'ck', 'nk', 'ng', 'mp', 'sh'];
 
 const card1 = new Card(document.getElementById('card1'), letters1);
 const card2 = new Card(document.getElementById('card2'), letters2);
