@@ -1,8 +1,8 @@
 'use strict'
 
-const letters1 = ['', 'b', 'd', 'f', 'g', 'h', 'l', 'm', 'n', 'p', 'r', 's', 't', 'w', 'z', 'sh', 'r', 'v', 't'];
-const letters2 = ['', 'ee', 'ea', 'oo', 'o͞o', 'ou', 'ai', 'ar', 'or', 'ir', 'or', 'ir', 'oi', 'ee', 'oa', 'o&#862w', 'ow', 'ay', 'oy', 'er'];
-const letters3 = ['', 'b', 'd', 'f', 'g', 'k', 'l', 'm', 'n', 'p', 's', 't', 'v', 'x', 'y', 'z'];
+const letters1 = ['', 'b', 'd', 'f', 'g', 'h', 'l', 'm', 'n', 'p', 'r', 's', 't', 'v', 'w', 'z', 'sh'];
+const letters2 = ['', 'ee', 'ea', 'oo', 'o͞o', 'ou', 'oa', 'ai', 'ar', 'or', 'ir', 'oi', 'ow', 'o&#862w', 'ay', 'oy', 'er'];
+const letters3 = ['', 'b', 'd', 'g', 'k', 'm', 'n', 'p', 's', 't', 'x', 'ch', 'sh'];
 
 const card1 = new Card(document.getElementById('card1'), letters1);
 const card2 = new Card(document.getElementById('card2'), letters2);
